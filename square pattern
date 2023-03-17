@@ -10,7 +10,7 @@ int main() {
     for (int j = 0; j < size; j++) {
       printf("*");
     }
-    printf("\n");
+//deleted the code of next line
   }
   return 0;
 }
